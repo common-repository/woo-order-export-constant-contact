@@ -1,0 +1,27 @@
+ @import url('https://fonts.googleapis.com/css?family=Raleway');
+ #mainform h2,  #mainform p, #mainform span, #mainform label{
+ 	font-family: 'Raleway';
+ }
+.description{
+	display: flex;
+}
+ #mainform h2{
+ 	font-size: 20px;
+ }
+ #mainform label{
+ 	letter-spacing: 2px;
+ }
+ .description a{
+ 	margin-left: 5px; 
+ }
+
+.description b{
+	display: contents;
+}
+.wps_cc_woo_log_details{
+	display: none;
+}
+.section_debug_log_title a{
+	width: 7%;
+	display: block;
+}
